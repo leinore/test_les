@@ -1,0 +1,15 @@
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/test_lesson/Examples/Ex001/bin/Debug/net7.0/Ex001
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/test_lesson/Examples/Ex001/bin/Debug/net7.0/Ex001.deps.json
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/test_lesson/Examples/Ex001/bin/Debug/net7.0/Ex001.runtimeconfig.json
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/test_lesson/Examples/Ex001/bin/Debug/net7.0/Ex001.dll
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/test_lesson/Examples/Ex001/bin/Debug/net7.0/Ex001.pdb
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/test_lesson/Examples/Ex001/obj/Debug/net7.0/Ex001.csproj.AssemblyReference.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/test_lesson/Examples/Ex001/obj/Debug/net7.0/Ex001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/test_lesson/Examples/Ex001/obj/Debug/net7.0/Ex001.AssemblyInfoInputs.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/test_lesson/Examples/Ex001/obj/Debug/net7.0/Ex001.AssemblyInfo.cs
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/test_lesson/Examples/Ex001/obj/Debug/net7.0/Ex001.csproj.CoreCompileInputs.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/test_lesson/Examples/Ex001/obj/Debug/net7.0/Ex001.dll
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/test_lesson/Examples/Ex001/obj/Debug/net7.0/refint/Ex001.dll
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/test_lesson/Examples/Ex001/obj/Debug/net7.0/Ex001.pdb
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/test_lesson/Examples/Ex001/obj/Debug/net7.0/Ex001.genruntimeconfig.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/test_lesson/Examples/Ex001/obj/Debug/net7.0/ref/Ex001.dll
